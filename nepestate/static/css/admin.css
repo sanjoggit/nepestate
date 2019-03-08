@@ -1,0 +1,13 @@
+#header{
+    padding: 4px 40px;
+    background: #00264d;
+    color: white;
+}
+
+#branding h1{
+    color: white;
+}
+
+a:link{
+    color: #00264d;
+}
